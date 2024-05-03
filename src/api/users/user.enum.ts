@@ -1,0 +1,7 @@
+export enum RoleEnum {
+  PLATFORM_ADMIN = "PLATFORM_ADMIN",
+  ADMIN = "ADMIN",
+  TEACHER = "TEACHER",
+  STUDENT = "STUDENT",
+  PARENT = "PARENT",
+}
